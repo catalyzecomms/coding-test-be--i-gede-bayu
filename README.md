@@ -11,7 +11,7 @@ This project is a coding test to demonstrate a simple CRUD (Create, Read, Update
 * Running under latest node.
 
 ## CMS
-use https://ui.shadcn.com for CMS template. Simple without login, only simple CRUD Form.
+use https://ant.design/ or https://ui.shadcn.com for CMS template. Simple without login, only simple CRUD Form.
 
 ## API Endpoints
 The API provides the following endpoints for managing Posts. With the field :
