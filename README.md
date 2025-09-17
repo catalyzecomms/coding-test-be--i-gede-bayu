@@ -1,4 +1,4 @@
-# NestJS CRUD API & CMS CODE TESTING
+# API & CMS CODE TESTING
 
 This project is a coding test to demonstrate a simple CRUD (Create, Read, Update, Delete) API using the NestJS framework. The API manages a Posts resource and uses SQLite as the database.
 
@@ -11,7 +11,7 @@ This project is a coding test to demonstrate a simple CRUD (Create, Read, Update
 * Running under latest node.
 
 ## CMS
-use https://ant.design/ or https://ui.shadcn.com for CMS template. Simple without login, only simple CRUD Form.
+Use https://ant.design/ or https://ui.shadcn.com for CMS template. Simple without login, only simple CRUD Form.
 
 ## API Endpoints
 The API provides the following endpoints for managing Posts. With the field :
