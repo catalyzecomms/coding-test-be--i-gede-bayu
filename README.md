@@ -3,7 +3,7 @@
 This project is a coding test to demonstrate a simple CRUD (Create, Read, Update, Delete) API using the NestJS framework. The API manages a Posts resource and uses SQLite as the database.
 
 ## Technologies Used & Criteria
-* NextJS: use ShacdnUI for CMS. Simple without login, only form CRUD.
+* NextJS: Designed for building fast, full-stack web applications
 * NestJS: A progressive Node.js framework for building efficient and scalable server-side applications.
 * SQLite: A file-based SQL database, lightweight and easy to set up for development.
 * Git: A distributed version control system for tracking changes.
